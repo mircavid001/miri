@@ -99,35 +99,47 @@
 //}
 
 
-Console.WriteLine("1. enter name");
-Console.WriteLine("2. enter surname");
-Console.WriteLine("3. enter age");
+//Console.WriteLine("1. enter name");
+//Console.WriteLine("2. enter surname");
+//Console.WriteLine("3. enter age");
 
-string secim = Console.ReadLine();
-switch (secim)
+//string secim = Console.ReadLine();
+//switch (secim)
+//{
+//    case "1":
+
+//       Console.WriteLine("zehmet olmasa adinizi daxil edin");
+//        string name = Console.ReadLine();
+//        Console.WriteLine(name);
+//        break;
+
+//    case "2":
+//        Console.WriteLine("soyadinizi daxil edin");
+//        string surname = Console.ReadLine();
+//        Console.WriteLine(surname);
+//        break;
+
+//        case "3":
+//        Console.WriteLine("yashinizi daxil edin");
+//        string age = Console.ReadLine();
+//        Console.WriteLine(age);
+//        break;
+
+
+
+//}
+
+using System.Runtime;
+
+string[] adlar = { "turkie", "gurcustan", "azerbaican", "russia", };
+
+   for (int i = 0; i < adlar.Length; i++)
 {
-    case "1":
- 
-       Console.WriteLine("zehmet olmasa adinizi daxil edin");
-        string name = Console.ReadLine();
-        Console.WriteLine(name);
-        break;
-
-    case "2":
-        Console.WriteLine("soyadinizi daxil edin");
-        string surname = Console.ReadLine();
-        Console.WriteLine(surname);
-        break;
-
-        case "3":
-        Console.WriteLine("yashinizi daxil edin");
-        string age = Console.ReadLine();
-        Console.WriteLine(age);
-        break;
-
-
-
+    Console.WriteLine(adlar[i]);
 }
 
-
-
+int[] regemler = { 2, 4, 5, 6, 7, };
+for (int i = 0;i < regemler.Length; i++)
+{
+    Console.WriteLine(regemler[i]);
+}

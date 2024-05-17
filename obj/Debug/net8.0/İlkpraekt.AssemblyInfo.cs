@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İlkpraekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3943eb76aa3d78bf8410fb961400c21f60564f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("İlkpraekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İlkpraekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\refint\İlkpraek
 C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.pdb
 C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.genruntimeconfig.cache
 C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\ref\İlkpraekt.dll
+C:\Users\pc\source\repos\İlkpraekt\İlkpraekt\obj\Debug\net8.0\İlkpraekt.sourcelink.json
